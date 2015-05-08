@@ -1,0 +1,22 @@
+{
+    "name": "xj/yii2-fullpage-widget",
+    "description": "yii2-fullpage-widget",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "xj/yii2-easing-widget": "dev-master",
+        "xj/yii2-slimscroll-widget": "dev-master",
+        "bower-asset/fullpage.js": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\js\\fullpage\\": ""
+        }
+    }
+}
