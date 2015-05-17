@@ -10,9 +10,9 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "xj/yii2-easing-widget": "dev-master",
-        "xj/yii2-slimscroll-widget": "dev-master",
-        "bower-asset/fullpage.js": "*"
+        "xj/yii2-easing-widget": "*",
+        "xj/yii2-slimscroll-widget": "*",
+        "bower-asset/fullpage.js": "~2.6.0"
     },
     "autoload": {
         "psr-4": {
